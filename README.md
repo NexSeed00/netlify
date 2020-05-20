@@ -1,7 +1,8 @@
 # Netlifyの使い方
 
-Netlifyは、GitHubのレポジトリと連携して、アプリやウェブサイトをネット上で公開するサービスです。
-この解説はGitHubにレポジトリ作成までされている前提で進みます。まだできていない方は、以下のリンクからGit、GitHubの解説を先にお読みください。
+Netlifyは、GitHubのレポジトリと連携して、アプリやウェブサイトをネット上で公開するサービスです。<br>
+この解説はGitHubにレポジトリ作成までされている前提で進みます。<br>
+まだできていない方は、以下のリンクからGit、GitHubの解説を先にお読みください。
 
 * [GitとGitHubの概念](https://github.com/NexSeed00/git_basic)
 * [GitHubにファイルをアップロードする手順](https://github.com/NexSeed00/github)
@@ -10,8 +11,7 @@ Netlifyは、GitHubのレポジトリと連携して、アプリやウェブサ�
 
 1. Netlifyの登録
 2. NetlifyとGitHubの連携
-3. レポジトリの選択
-4. 公開
+3. レポジトリの選択・公開
 
 ### 1. Netlifyの登録
 
@@ -45,6 +45,10 @@ GitHubのアカウントと紐づいているメールアドレス宛にメー�
 
 ![](img/netlify_5.png)
 
+<br><br>
+
+### 2. NetlifyとGitHubの連携
+
 「New site from Git」をクリックします。
 
 ![](img/netlify_6.png)
@@ -63,6 +67,10 @@ GitHubのアカウントと紐づいているメールアドレス宛にメー�
 
 これでNetlifyとGitHubの連携ができました。
 
+<br><br>
+
+### 3. レポジトリの選択・公開
+
 GitHubにあるレポジトリの一覧が表示されています。
 
 ![](img/netlify_10.png)
@@ -76,6 +84,15 @@ GitHubにあるレポジトリの一覧が表示されています。
 １番下の「Deploy site」をクリックします。
 
 ![](img/netlify_12.png)
-![](img/netlify_13.png)
+
+ユーザーページに自動的に戻ります。
+デプロイが完了すると赤い枠の箇所にリンクが表示されます。
+
 ![](img/netlify_14.png)
 
+リンクをクリックして、ウェブサイトを確認しましょう。
+
+<br><br>
+
+説明は以上です。<br>
+お疲れ様でした！
